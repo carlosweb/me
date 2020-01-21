@@ -4,10 +4,23 @@ body {
     background-color: rgb(0, 104, 201);
 }
 
+h1 {
+    color: #f2f2f2;
+}
+
+h3 {
+    color: #b8b8b8;
+}
+
 .center {
     text-align: center;
 }
 
 li {
     list-style: none;
+    color: #b8b8b8;
+}
+
+a {
+    color: #b8b8b8;
 }
